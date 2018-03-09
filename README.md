@@ -8,3 +8,9 @@ Test the git hub process
 **Example:** The data for this repo comes from [here.](http://www.google.com)
 
 This is the change I made on the branch
+
+And here I am, making changes to your **README.md** like a *boss*:
+
+* this
+* that
+* the other thing
